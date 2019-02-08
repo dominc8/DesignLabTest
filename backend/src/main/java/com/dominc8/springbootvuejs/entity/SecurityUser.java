@@ -1,4 +1,4 @@
-package de.jonashackt.springbootvuejs.entity;
+package com.dominc8.springbootvuejs.entity;
 
 import org.hibernate.annotations.GenericGenerator;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

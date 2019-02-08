@@ -1,7 +1,7 @@
-package de.jonashackt.springbootvuejs.repository;
+package com.dominc8.springbootvuejs.repository;
 
 
-import de.jonashackt.springbootvuejs.entity.IotNode;
+import com.dominc8.springbootvuejs.entity.IotNode;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

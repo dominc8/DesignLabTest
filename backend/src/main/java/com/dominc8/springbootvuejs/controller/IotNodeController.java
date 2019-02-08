@@ -1,8 +1,8 @@
-package de.jonashackt.springbootvuejs.controller;
+package com.dominc8.springbootvuejs.controller;
 
-import de.jonashackt.springbootvuejs.entity.IotNode;
-import de.jonashackt.springbootvuejs.repository.IotNodeRepository;
-import de.jonashackt.springbootvuejs.repository.SecurityUserRepository;
+import com.dominc8.springbootvuejs.entity.IotNode;
+import com.dominc8.springbootvuejs.repository.IotNodeRepository;
+import com.dominc8.springbootvuejs.repository.SecurityUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

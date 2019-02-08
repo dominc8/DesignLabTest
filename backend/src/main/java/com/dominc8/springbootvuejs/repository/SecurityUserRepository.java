@@ -1,7 +1,7 @@
-package de.jonashackt.springbootvuejs.repository;
+package com.dominc8.springbootvuejs.repository;
 
 
-import de.jonashackt.springbootvuejs.entity.SecurityUser;
+import com.dominc8.springbootvuejs.entity.SecurityUser;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package de.jonashackt.springbootvuejs.configuration;
+package com.dominc8.springbootvuejs.configuration;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.jdbc.DataSourceBuilder;
